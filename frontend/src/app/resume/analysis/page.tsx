@@ -1,0 +1,7 @@
+export default function ResumeAnalysisPage() {
+  return (
+    <div>
+      <h1>Resume Analysis</h1>
+    </div>
+  );
+}
