@@ -48,4 +48,9 @@ __pycache__/
 dist/
 .venv/
 venv/
+
+# Uploads & test artifacts
+backend/uploads/
+test_resume.txt
+
 next-env.d.ts
